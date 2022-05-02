@@ -1,6 +1,6 @@
 """
 This is a lug calculator that calculates the maximum loads a lug can withstand using the Air Force method.
-Developed by Ross Alumbaugh, Derek Zhang, Chris Hardin, Jonathan Zhang
+Developed by Ross Alumbaugh, Derek Zhang, Chris Hardin, and Jonathan Zhang
 """
 
 import tkinter as tk
